@@ -1,7 +1,7 @@
 package proyectoi;
 
 import javax.swing.*;
-import vista.ventanaAplicacion;
+import proyectoi.vista.ventanaAplicacion;
 
 public class ProyectoI {
 public static void main(String[] args) {
